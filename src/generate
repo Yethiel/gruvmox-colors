@@ -1,0 +1,36 @@
+#!/bin/bash
+
+rm -rf ~/.config/oomox/colors/gruvmox/
+mkdir ~/.config/oomox/colors/gruvmox/
+
+cat base dark dark-soft acc-default> ~/.config/oomox/colors/gruvmox/gruvmox-dark-soft-default
+cat base dark dark-medium acc-default> ~/.config/oomox/colors/gruvmox/gruvmox-dark-medium-default
+cat base dark dark-hard acc-default> ~/.config/oomox/colors/gruvmox/gruvmox-dark-hard-default
+
+cat base dark dark-soft acc-red> ~/.config/oomox/colors/gruvmox/gruvmox-dark-soft-red
+cat base dark dark-medium acc-red> ~/.config/oomox/colors/gruvmox/gruvmox-dark-medium-red
+cat base dark dark-hard acc-red> ~/.config/oomox/colors/gruvmox/gruvmox-dark-hard-red
+
+cat base dark dark-soft acc-green> ~/.config/oomox/colors/gruvmox/gruvmox-dark-soft-green
+cat base dark dark-medium acc-green> ~/.config/oomox/colors/gruvmox/gruvmox-dark-medium-green
+cat base dark dark-hard acc-green> ~/.config/oomox/colors/gruvmox/gruvmox-dark-hard-green
+
+cat base dark dark-soft acc-yellow> ~/.config/oomox/colors/gruvmox/gruvmox-dark-soft-yellow
+cat base dark dark-medium acc-yellow> ~/.config/oomox/colors/gruvmox/gruvmox-dark-medium-yellow
+cat base dark dark-hard acc-yellow> ~/.config/oomox/colors/gruvmox/gruvmox-dark-hard-yellow
+
+cat base dark dark-soft acc-blue> ~/.config/oomox/colors/gruvmox/gruvmox-dark-soft-blue
+cat base dark dark-medium acc-blue> ~/.config/oomox/colors/gruvmox/gruvmox-dark-medium-blue
+cat base dark dark-hard acc-blue> ~/.config/oomox/colors/gruvmox/gruvmox-dark-hard-blue
+
+cat base dark dark-soft acc-purple> ~/.config/oomox/colors/gruvmox/gruvmox-dark-soft-purple
+cat base dark dark-medium acc-purple> ~/.config/oomox/colors/gruvmox/gruvmox-dark-medium-purple
+cat base dark dark-hard acc-purple> ~/.config/oomox/colors/gruvmox/gruvmox-dark-hard-purple
+
+cat base dark dark-soft acc-aqua> ~/.config/oomox/colors/gruvmox/gruvmox-dark-soft-aqua
+cat base dark dark-medium acc-aqua> ~/.config/oomox/colors/gruvmox/gruvmox-dark-medium-aqua
+cat base dark dark-hard acc-aqua> ~/.config/oomox/colors/gruvmox/gruvmox-dark-hard-aqua
+
+cat base dark dark-soft acc-orange> ~/.config/oomox/colors/gruvmox/gruvmox-dark-soft-orange
+cat base dark dark-medium acc-orange> ~/.config/oomox/colors/gruvmox/gruvmox-dark-medium-orange
+cat base dark dark-hard acc-orange> ~/.config/oomox/colors/gruvmox/gruvmox-dark-hard-orange
